@@ -1,0 +1,2 @@
+# Projection-Method-for-NSE
+In this project, we implement the projection method algorithm in dealii with multithreading. This work is an extension of dealii example step-35. Calculating right hand side function for a true solution from Navier-Stokes equation, we implement the right side function and known boundary value function into our code. We checked the convergence rate with respect to different norms for velocity and pressure for the algorithm. Finally we plot some graphs for velocity and pressure at different times with some specified values of the parameter.
